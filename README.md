@@ -108,3 +108,14 @@ WRITE / gv_degisken.
 gv_degisken = gv_degisken + 1.  
 ENDWHILE.
 ```
+---
+* ### TABLE-DATA ELEMENT-DOMAIN
+- Tablo Oluştururken sıralaması bu şekilde
+---
+* ### OPEN SQL KOMUTLARI
+- Variable-Structure-Table => 
+```
+ Varible   : Tek bir sütun
+ Structure : Bir tablodaki birden fazla variableden oluşan sütun
+ Table     : Tablonun tamamı
+ ```
