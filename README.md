@@ -2,7 +2,7 @@
 
 + se38 => Program Oluşturma (Proje İsimleri ZBK_ ile başlar)
 + se11 => Tablo DataElement Domain Oluşturma
-+ se16n => Önceden oluşturulan Tabloları görüntülemeye gerekirse editlemeye yarar
++ se16 => Önceden oluşturulan Tabloları görüntülemeye gerekirse editlemeye yarar
 ---
 
 *&---------------------------------------------------------------------*  
