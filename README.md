@@ -1,7 +1,7 @@
 # SAP-ABAP
 
 + se38 => Program Oluşturma (Proje İsimleri ZBK_ ile başlar)
-+ 
++ se11 => Tablo DataElement Domain Oluşturma
 
 ---
 
