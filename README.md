@@ -4,7 +4,11 @@
 + se11 => Tablo DataElement Domain Oluşturma
 + se16 => Önceden oluşturulan Tabloları görüntülemeye gerekirse editlemeye yarar
 ---
-
+```
+sap* Down1oad => Lisana İşlemleri İçin
+developer Down1oad => Kod Yazma vs.
+```
+---
 *&---------------------------------------------------------------------*  
 *& Report ZBK_LESSON_2  
 *&---------------------------------------------------------------------*  
