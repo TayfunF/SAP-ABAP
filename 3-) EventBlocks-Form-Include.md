@@ -41,5 +41,18 @@ ENDFORM.
 ```
 + Parametreli form kullanımı
 ```
+INITIALIZATION.
 
+AT SELECTION-SCREEN.
+
+START-OF-SELECTION.
+
+  PERFORM iki_sayinin_carpimi USING 3 4.
+
+END-OF-SELECTION.
+FORM iki_sayinin_carpimi USING p_num1 p_num2.
+  DATA lv_sonuc TYPE int4.
+  lv_sonuc = p_num1 * p_num2.
+  WRITE: 'Sonuc', lv_sonuc.
+ENDFORM.
 ```
