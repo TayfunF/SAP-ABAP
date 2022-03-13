@@ -56,3 +56,24 @@ FORM iki_sayinin_carpimi USING p_num1 p_num2.
   WRITE: 'Sonuc', lv_sonuc.
 ENDFORM.
 ```
++ Global Değişkendli form kullanımı
+```
+DATA : gv_num1 TYPE int4,
+       gv_num2 TYPE int4.
+
+gv_num1 = 10.
+gv_num2 = 7.
+
+INITIALIZATION.
+
+AT SELECTION-SCREEN.
+
+START-OF-SELECTION.
+PERFORM iki_sayi_farki USING gv_num1 gv_num2.
+END-OF-SELECTION.
+FORM iki_sayi_farki USING gv_num1 gv_num2.
+  DATA lv_sonuc TYPE int4.
+  lv_sonuc = gv_num1 - gv_num2.
+  WRITE: 'Sonuç = ' , lv_sonuc.
+ENDFORM.
+```
