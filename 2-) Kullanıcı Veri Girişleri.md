@@ -13,7 +13,6 @@ PARAMETERS p_persad TYPE zbk_personelad_de.
 ✔️[PARAMETERS değişkenAdı TYPE tabloDataElementAdı.]
 ```
 ---
-
 ##### 🔔 SELECT-OPTIONS 
 ```
 * Kullanım 1 : DATA oluşturup onu vermem lazım
@@ -30,3 +29,7 @@ SELECT-OPTIONS: s_percin FOR zbk_personel_t-personel_cinsiyet.
 ✔️[SELECT-OPTIONS: s_percin FOR tabloAdi-tabloSütunAdı.]
 ```
 ---
+##### 🔔 AS CHECKBOX 
+```
+PARAMETERS p_num1 AS CHECKBOX.
+```
