@@ -26,7 +26,7 @@ SELECT-OPTIONS: s_persoy FOR gv_persoy.
 * Kullanım 2 : DATA Tanımlamadan Kullanma
 
 TABLES: zbk_personel_t.
-SELECT-OPTIONS: s_percins FOR zbk_personel_t-personel_cinsiyet.
+SELECT-OPTIONS: s_percin FOR zbk_personel_t-personel_cinsiyet.
 ✔️[SELECT-OPTIONS: s_percin FOR tabloAdi-tabloSütunAdı.]
 ```
 ---
