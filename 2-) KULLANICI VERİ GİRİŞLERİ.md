@@ -36,3 +36,16 @@ SELECT-OPTIONS: s_percin FOR zbk_personel_t-personel_cinsiyet.
 ```
 ✔️PARAMETERS p_num1 AS CHECKBOX.
 ```
+---
+##### 🔔 RADIOBUTTON GROUP
+```
+PARAMETERS: p_num2 RADIOBUTTON GROUP cins,
+            p_num3 RADIOBUTTON GROUP cins,
+            p_num5 RADIOBUTTON GROUP yas,
+            p_num6 RADIOBUTTON GROUP yas,
+            p_num7 RADIOBUTTON GROUP yas.
+```
+---
+##### 🔔 SELECTION-SCREEN (Görselliği Güzelleştirme)
+```
+```
