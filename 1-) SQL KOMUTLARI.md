@@ -51,3 +51,14 @@ INSERT zbk_personel_t FROM gs_personelt.
 * // Personel Id 'si 5 olanı sil.
 DELETE FROM zbk_personel_t WHERE personel_id EQ 5.
 ```
+---
+##### ✅ MODIFY KULLANIMI (se38 => Executable Program ile)
+```
+* // Personel Bilgileri Tabloda Varsa Güncelle Yoksa Ekle
+* // Yani Varsa => UPDATE , Yoksa => INSERT Mantığı ile çalışıyor
+gs_personelt-personel_id = 5.
+gs_personelt-personel_ad = 'Ahmet'.
+gs_personelt-personel_soyad = 'Hasan'.
+gs_personelt-personel_cinsiyet = 'E'.
+MODIFY zbk_personel_t FROM gs_personelt.
+```
