@@ -48,4 +48,11 @@ PARAMETERS: p_num2 RADIOBUTTON GROUP cins,
 ---
 ##### 🔔 SELECTION-SCREEN (Görselliği Güzelleştirme)
 ```
+SELECTION-SCREEN BEGIN OF BLOCK bl1 WITH FRAME.
+PARAMETERS: p_num2 RADIOBUTTON GROUP cins,
+            p_num3 RADIOBUTTON GROUP cins,
+            p_num5 RADIOBUTTON GROUP yas,
+            p_num6 RADIOBUTTON GROUP yas,
+            p_num7 RADIOBUTTON GROUP yas.
+SELECTION-SCREEN END OF BLOCK bl1.
 ```
