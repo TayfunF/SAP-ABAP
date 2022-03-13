@@ -30,11 +30,18 @@ SELECT SINGLE personel_id INTO gv_personelid.
 SELECT * FROM zbk_personel_t INTO TABLE gt_personelt WHERE personel_id EQ 1.
 ```
 ---
-
 ##### ✅ UPDATE KULLANIMI (se38 => Executable Program ile)
 ```
-* TABLODAKİ Personel Id 'si 1 Olanın Adını Tufan Yap  
-UPDATE ZBK_PERSONEL_T SET personel_ad = 'Tufan' where personel_id eq 1.
-
-
+* // TABLODAKİ Personel Id 'si 1 Olanın Adını Tayfun Yap  
+UPDATE zbk_personel_t set personel_ad = 'Tayfun' where personel_id eq 1.
+```
+---
+##### ✅ INSERT KULLANIMI (se38 => Executable Program ile)
+```
+* // İlk olarak personel için bilgileri dolduruyorum. Sonra ekleme yapıyorum.
+gs_personelt-personel_id = 5.
+gs_personelt-personel_ad = 'Ahmet'.
+gs_personelt-personel_soyad = 'Mehmet'.
+gs_personelt-personel_cinsiyet = 'E'.
+INSERT zbk_personel_t FROM gs_personelt.
 ```
