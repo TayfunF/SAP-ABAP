@@ -5,7 +5,7 @@
 + se16 => Önceden oluşturulan Tabloları görüntülemeye gerekirse editlemeye yarar
 ---
 ```
-sap* Down1oad => Lisana İşlemleri İçin
+sap* Down1oad => Lisans Yenileme İşlemleri İçin
 developer Down1oad => Kod Yazma vs.
 ```
 ---
