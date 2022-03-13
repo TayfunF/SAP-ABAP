@@ -27,6 +27,6 @@ SELECT-OPTIONS: s_persoy FOR gv_persoy.
 
 TABLES: zbk_personel_t.
 SELECT-OPTIONS: s_percins FOR zbk_personel_t-personel_cinsiyet.
-✔️[SELECT-OPTIONS: s_percins FOR tabloAdi-tabloSütunAdı.]
+✔️[SELECT-OPTIONS: s_percin FOR tabloAdi-tabloSütunAdı.]
 ```
 ---
