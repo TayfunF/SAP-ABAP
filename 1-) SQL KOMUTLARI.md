@@ -45,3 +45,9 @@ gs_personelt-personel_soyad = 'Mehmet'.
 gs_personelt-personel_cinsiyet = 'E'.
 INSERT zbk_personel_t FROM gs_personelt.
 ```
+---
+##### ✅ DELETE KULLANIMI (se38 => Executable Program ile)
+```
+* // Personel Id 'si 5 olanı sil.
+DELETE FROM zbk_personel_t WHERE personel_id EQ 5.
+```
