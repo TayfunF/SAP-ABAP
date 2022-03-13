@@ -1,13 +1,15 @@
-# SAP-ABAP
+## SAP-ABAP İŞLEM KOMUTLARI
 
-+ se38 => Program Oluşturma (Proje İsimleri ZBK_ ile başlar)
-+ se11 => Tablo DataElement Domain Oluşturma
-+ se16 => Önceden oluşturulan Tabloları görüntülemeye gerekirse editlemeye yarar
----
 ```
 sap* Down1oad => Lisans Yenileme İşlemleri İçin
 developer Down1oad => Kod Yazma vs.
 ```
+---
++ se38 => Program Oluşturma (Proje İsimleri ZBK_ ile başlar)
++ se11 => Tablo DataElement Domain Oluşturma
++ se16 => Önceden oluşturulan Tabloları görüntülemek, manuel olarak veri eklemek
+---
+
 ---
 *&---------------------------------------------------------------------*  
 *& Report ZBK_LESSON_2  
