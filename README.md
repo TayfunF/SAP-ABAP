@@ -119,7 +119,7 @@ ENDWHILE.
 * ### OPEN SQL KOMUTLARI
 - Variable-Structure-Table => 
 ```
- Varible   : Tek bir satır-sütun daki değişken
+ Varible   : Tek data tutar
  Structure : Tablodaki her bir satıra verilen isim
  Table     : Tablonun tamamı
  ```
