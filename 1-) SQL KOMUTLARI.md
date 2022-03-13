@@ -12,13 +12,13 @@ DATA: gv_personelid       TYPE zbk_personelid_de,
       gv_personelsoyad    TYPE zbk_personelsoyad_de,
       gv_personelcinsiyet TYPE zbk_personelcinsiyet_de,
       gs_personelt        TYPE zbk_personel_t,
-      gt_personelt        TYPE zbk_personel_t.
+      gt_personelt        TYPE TABLE OF zbk_personel_t.
 ```
 ---
 ##### ✅ SELECT KULLANIMI (se38 => Executable Program ile)
 ```
 * // TABLODAKİ VERİLERİ ÇEKME => Tüm tablodaki verileri çekme
-SELECT * FROM zbk_personel_t INTO TABLE gt_personel_t.
+SELECT * FROM zbk_personel_t INTO TABLE gt_personelt.
 
 * // STRUCTURE DAKİ VERİLERİ ÇEKME => Tek bir satırdaki verileri çekme
 SELECT SINGLE * FROM zbk_personel_t INTO gs_personelt.
@@ -27,7 +27,7 @@ SELECT SINGLE * FROM zbk_personel_t INTO gs_personelt.
 SELECT SINGLE personel_id INTO gv_personelid.
 
 * // Tablodaki Verilerden ID si 1 Olanı Çek (se38 => Executable Program ile)
-SELECT * FROM zbk_personel_t INTO TABLE gt_personel_t WHERE personel_id EQ 1.
+SELECT * FROM zbk_personel_t INTO TABLE gt_personelt WHERE personel_id EQ 1.
 ```
 ---
 
