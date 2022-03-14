@@ -1,12 +1,12 @@
 ## SAP-ABAP İŞLEM KOMUTLARI
 
 ```
-sap* Down1oad => Lisans Yenileme İşlemleri İçin
-developer Down1oad => Kod Yazma vs.
-```
-```
-Terminal Sap Başlatma => su npladm 
+🔸 Terminal Sap Başlatma => su npladm 
                          startsap all
+```
+```
+🔸 sap* Down1oad => Lisans Yenileme İşlemleri İçin
+🔸 developer Down1oad => Kod Yazma vs.
 ```
 ---
 ---
