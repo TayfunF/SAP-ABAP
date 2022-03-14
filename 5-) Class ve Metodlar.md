@@ -13,7 +13,7 @@
 > ![source cod](https://i.hizliresim.com/mtlbnu4.jpg)
 ---
 + 🔔 Hazırladığımız Fonksiyonu se38 execute programda kullanma
-> ![execute program](https://i.hizliresim.com/6ifvwi6.jpg)
+> ![execute program](https://user-images.githubusercontent.com/39940749/158219696-eac210b2-b9ad-4004-a7e4-a58234e0ddb4.png)
 ---
 + 🔔 Static Method tanımlarsak => se38 içinde REF TO demeden direk erişebiliriz
 > ![statik method](https://user-images.githubusercontent.com/39940749/158218337-3567e172-4447-427d-af44-0a4a828200c9.png)
