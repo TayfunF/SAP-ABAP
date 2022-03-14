@@ -4,6 +4,10 @@
 sap* Down1oad => Lisans Yenileme İşlemleri İçin
 developer Down1oad => Kod Yazma vs.
 ```
+```
+Terminal Sap Başlatma => su npladm 
+                         startsap all
+```
 ---
 ---
 + se38 => Program Oluşturma (Proje İsimleri ZBK_ ile başlar)
