@@ -10,11 +10,12 @@
 ```
 ---
 ---
-+ se38 => Program Oluşturma (Proje İsimleri ZBK_ ile başlar)
-+ se11 => Tablo DataElement Domain Oluşturma
-+ se16 => Önceden oluşturulan Tabloları görüntülemek, manuel olarak veri eklemek
-+ se80 => Fonksiyon Grubu Oluşturma (Class/interface vb.)
-+ se37 => Fonksiyon Modülü Oluşturma
++ 📌 se38 => Program Oluşturma (Proje İsimleri ZBK_ ile başlar)
++ 📌 se11 => Tablo DataElement Domain Oluşturma
++ 📌 se16 => Önceden oluşturulan Tabloları görüntülemek, manuel olarak veri eklemek
++ 📌 se80 => Fonksiyon Grubu Oluşturma (Class/interface vb.)
++ 📌 se37 => Fonksiyon Modülü Oluşturma
++ 📌 se24 => Class ve Metod Oluşturma İçin
 ---
 
 ---
