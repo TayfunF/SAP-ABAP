@@ -35,3 +35,9 @@
 > ![event2](https://user-images.githubusercontent.com/39940749/158392687-55f31e29-1b39-4839-a8c6-208a7b5e235c.png)
 > ![event3](https://user-images.githubusercontent.com/39940749/158395110-885c2231-65dc-48ea-a540-25208c17139b.png)
 ---
++ 🔔 Interfaces : Oluşturduğumuz parametrelere direk erişebilmemizi sağlayan yapıdır.
++ Mantık olarak Event'e benzer bir yapısı var.
+---
+---
++ 🔔 Aliases : Interface 'in isimlerini kısaltıp programda direk kullanmamıza olanak sağlayan Ekran.
+---
