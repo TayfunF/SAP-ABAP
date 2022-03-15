@@ -27,6 +27,6 @@
 > ![attribute](https://user-images.githubusercontent.com/39940749/158358131-77c971a7-4f7a-4585-b890-50721c405cec.png)
 > ![method](https://user-images.githubusercontent.com/39940749/158360366-f051df02-ffb9-4f2b-a746-c8022179322c.png)
 ---
-+ 🔔 Friends : Başka bir Class ın metodunu private olsa bile kullanmamıza olanak sağlıyor. Hangi Class lar kullanacaksa onların isimlerini tanımlıyorum.
++ 🔔 Friends : Başka bir Class ın metodlarını private olsa bile kullanmamıza olanak sağlıyor. Hangi Class lar kullanacaksa onların isimlerini tanımlıyorum.
 > ![frien](https://user-images.githubusercontent.com/39940749/158391536-cfac5244-e783-4ff7-9f4a-a30c19a1c56e.png)
 ---
