@@ -23,3 +23,10 @@
 > ![type](https://user-images.githubusercontent.com/39940749/158342037-acaecc1b-50fd-4690-bb82-e9e62c814859.png)
 > ![type2](https://user-images.githubusercontent.com/39940749/158342242-6a032409-e6a5-4786-874b-c586aec267e5.png)
 ---
+---
++ 🔔 Attribute : Methos->Source Code kısmında istediğim yerde kullanabilirim.
+> ![attribute](https://user-images.githubusercontent.com/39940749/158358131-77c971a7-4f7a-4585-b890-50721c405cec.png)
+> ![method](https://user-images.githubusercontent.com/39940749/158360366-f051df02-ffb9-4f2b-a746-c8022179322c.png)
+
+---
+
